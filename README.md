@@ -20,7 +20,7 @@ Built something end to end
 Building a gen-AI App
 
 
-### This repo is the back end code for our bot-extension project, which you can find here
+### This repo is the back end code for our bot-extension project, which you can find [here](https://github.com/tarunmugunthan/bot-extension)
 
 ## Running the app locally 
 1. Install the requirements pip install -r requirements.txt

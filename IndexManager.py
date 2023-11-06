@@ -11,8 +11,8 @@ from llama_index.prompts import PromptTemplate
 
 class IndexManager:
     def __init__(self):
-        os.environ['OPENAI_API_KEY'] = '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'
-        os.environ["NOTION_INTEGRATION_TOKEN"] = "secret_gr15bnw3bfHLQc8d3ImqNpzMtKCM21gaKC2Suf2Yofh"
+        os.environ['OPENAI_API_KEY'] = '<enter OpenAPI Key>'
+        os.environ["NOTION_INTEGRATION_TOKEN"] = "<notion token>"
 
         openai.api_key = os.getenv("OPENAI_API_KEY")
 

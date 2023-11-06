@@ -24,6 +24,7 @@ Building a gen-AI App
 
 ## Running the app locally 
 1. Install the requirements pip install -r requirements.txt
-2. Create a virtual environment: source <venv>/bin/activate
-3. uvicorn app:app --reload
+2. Enter OpenAPI Key and Notion Token in app.py file
+3. Create a virtual environment: source <venv>/bin/activate
+4. uvicorn app:app --reload
 
